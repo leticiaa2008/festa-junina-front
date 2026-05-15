@@ -4,8 +4,8 @@ const ASSETS = [
     './index.html',
     './manifest.json',
     './assets/images/logo.png',
-    './images/logo64.jpg',
-    './images/logo512.jpg',
+    './images/logo64.png',
+    './images/logo512.png',
     './assets/images/banner.png',
     './assets/images/whatsapp.png'
 ];
